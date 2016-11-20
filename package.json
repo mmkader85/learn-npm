@@ -1,0 +1,23 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "This is my personal npm learning package. May not be useful for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmkader85/learn-npm.git"
+  },
+  "author": "Muhammed Abdul Kader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmkader85/learn-npm/issues"
+  },
+  "homepage": "https://github.com/mmkader85/learn-npm#readme",
+  "dependencies": {
+    "@mmkader85/npm-demo-package": "^1.0.0",
+    "lodash": "^4.17.2"
+  }
+}
