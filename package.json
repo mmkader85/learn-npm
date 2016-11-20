@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mmkader85/learn-npm#readme",
   "dependencies": {
-    "@mmkader85/npm-demo-package": "^1.0.0",
+    "@mmkader85/npm-demo-package": "^1.0.1-beta",
     "lodash": "^4.17.2"
   }
 }
